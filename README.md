@@ -1,5 +1,5 @@
 # VoxelMolBuilder
-This repo contains a proof of concept of a 3D CNN meant to reconstruct molecule atoms from its voxel descriptors. 
+This repo contains a proof of concept of a 3D CNN meant to reconstruct molecule atoms from its voxelized descriptors. 
 
 ## Script Description
 * run.py --> End to end analysis.
